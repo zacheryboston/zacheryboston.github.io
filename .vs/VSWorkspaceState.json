@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Website\\assets",
-    "\\Website\\assets\\css"
+    "\\assets",
+    "\\assets\\js",
+    "\\assets\\sass",
+    "\\assets\\sass\\base",
+    "\\assets\\sass\\components",
+    "\\assets\\sass\\layout",
+    "\\assets\\sass\\libs",
+    "\\assets\\webfonts",
+    "\\images"
   ],
+  "SelectedNode": "\\assets\\webfonts",
   "PreviewInSolutionExplorer": false
 }
