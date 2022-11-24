@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Website",
+    "\\Website\\assets"
   ],
-  "SelectedNode": "\\C:\\Users\\yanke\\Source\\Repos\\zacheryboston.github.io",
+  "SelectedNode": "\\Website\\index.html",
   "PreviewInSolutionExplorer": false
 }
